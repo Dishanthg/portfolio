@@ -29,8 +29,8 @@
 
 ## 📬 Contact
 
-- 📧 Email: yourname@gmail.com  
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: dishanthmanju307@gmail.com@gmail.com  
+- 🐙 GitHub: [@Dishanthg](https://github.com/Dishanthg)
 
 ---
 
