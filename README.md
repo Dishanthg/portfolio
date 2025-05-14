@@ -40,7 +40,7 @@
 2. Make edits to `index.html` and `style.css`
 3. Push changes to GitHub
 4. Enable **GitHub Pages** in the repo settings (`main` branch → root folder)
-5. Your site will be live at `https://yourusername.github.io/modern-portfolio`
+5. Your site will be live at `[https://yourusername.github.io/modern-portfolio](https://dishanthg.github.io/)`
 
 ---
 
